@@ -20,9 +20,6 @@
                 <input id="myRoll" class="form-control my-2" type="text" placeholder="Your Roll" />
             </div>
             <button onclick="sendData()" class="btn btn-primary  my-2 px-4">Insert</button>
-            <button onclick="sendData()" class="btn btn-primary  my-2 px-4">Delete</button>
-            <button onclick="sendData()" class="btn btn-primary  my-2 px-4">Update</button>
-
         </form>
     </div>
 @endsection
